@@ -10,6 +10,9 @@ Kershaw's seasons and made some fun plots to show how their seasons progressed.
 
 This repo contains all the code and data for that analysis.
 
+Since it was originally for my eyes only, I didn't comment or clean it up much,
+so there might be some things that don't make sense to third parties.
+
 #### Data sources:
 
 - [Baseball Savant](http://baseballsavant.com/) for the PITCHf/x data
